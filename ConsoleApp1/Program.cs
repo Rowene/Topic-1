@@ -6,7 +6,7 @@ namespace ConsoleApp1
     internal class Program
     {
         static void Main(string[] args)
-        {
+        { // rowen
             string favMovie;
             favMovie = "THE MATRIX";
             Console.WriteLine("Hello, my name is Rowen Ellis, my favourite movie is " + favMovie.ToLower() + ", it's the best movie!");
